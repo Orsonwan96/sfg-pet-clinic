@@ -1,5 +1,5 @@
 package orson.springframework.sfgpetclinic.model;
 
-public class Vet {
+public class Vet extends Person{
 
 }
